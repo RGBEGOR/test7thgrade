@@ -1,0 +1,55 @@
+/* 1300 */
+/* 1200 */
+/* 992 */
+/* 768 */
+/* 576 */
+/* 320 */
+
+@media (max-width: 1300px){
+   
+}
+    
+    
+@media (max-width: 1200px){
+    
+}
+       
+   
+@media (max-width: 992px){
+
+}
+
+@media (max-width: 768px){
+
+}
+    
+@media (max-width: 576px){
+    .cat{
+        width: 50%;
+        height: 50%;
+    } 
+    .button{
+        width: 70%;
+    }
+
+    .intro{
+        font-size: 20px;
+
+    }
+    .head__content{
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .quiz__head{
+        margin-bottom: 30px;
+
+    }
+}
+    
+
+@media (max-width: 320px){
+.cat{
+width: 100%;
+height: 100%;
+}
+}
